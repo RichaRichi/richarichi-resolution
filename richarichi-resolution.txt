@@ -5,3 +5,5 @@ Richarichi resolusi
 - Saya ingin ikut andil dalam kegiatan sosial
 - Saya ingin di sela waktu, mengajar pelajaran SMA untuk mendapatkan bekal tambahan 
 - Saya ingin jago python dan satu bahasa pemrograman lainnya.
+  - Java
+  - Javascript
